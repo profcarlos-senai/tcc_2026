@@ -2,9 +2,9 @@
 
 O objetivo desta seção é responder à pergunta: **Por que este projeto deve existir?** Antes de pensar em telas, código ou banco de dados, você precisa provar que entende o problema real do seu cliente ou público-alvo. Aqui você diagnostica a dor do processo atual e estabelece os limites do seu projeto.
 
---- <div style="display:none">
+---
 
-### Tópicos desta seção:
+### Tópicos desta seção: {.ignore}
 
 #### [1 - Contexto e Problema de Negócio](1.1_contexto_e_problema.md)
 
@@ -21,5 +21,3 @@ Determina o que o seu TCC **vai** fazer e o que **não vai** fazer. Serve para p
 #### [04 - Visão da Solução](1.4_visao_da_solucao.md)
 
 Apresenta o resumo do estado futuro desejado (processo *To-Be*), explicando como o ambiente do cliente funcionará após a implantação da sua solução.
-
-</div>

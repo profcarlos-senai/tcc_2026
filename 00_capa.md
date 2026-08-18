@@ -1,17 +1,16 @@
-!(logo_senai.png)
+::: {align="center"}<!-- não mexa nessas marcas -->
+![Logotipo Senai/PR](logo_senai.png)
 
-&nbsp;
+## MODELTCC 2026: UM SISTEMA DE MODELO PADRÃO DE TRABALHOS DE CONCLUSÃO DE CURSO
+:::
 
-# MODELTCC 2026: UM SISTEMA DE MODELO PADRÃO DE TRABALHOS DE CONCLUSÃO DE CURSO 
-
-&nbsp;
-
+::: {align="right"} <!-- não mexa nessas marcas -->
 Fulano D. Thal[^1]
 
 Cicrano D. Tahl[^2]
 
 Beltrano D. Tal[^3]
-
+:::
 
 [^1]: Aluno do curso Técnico em Desenvolvimento de Sistemas do SENAI Pato Branco/PR - fulano.tal12345@aluno.sesisenaipr.org.br
 
@@ -19,6 +18,9 @@ Beltrano D. Tal[^3]
 
 [^3]: Aluno do curso Técnico em Desenvolvimento de Sistemas do SENAI Pato Branco/PR - beltrano.tahl98765@aluno.sesisenaipr.org.br
 
-# RESUMO
+::: {align="center"}
+<!-- não mexa nessas marcas -->
+## RESUMO
+:::
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at justo nec felis egestas ultricies. Aenean magna eros, efficitur ut metus nec, commodo bibendum lorem. Morbi blandit orci non lacus consectetur, a interdum risus vehicula. Donec pellentesque luctus tincidunt. Duis sit amet eros sagittis, lacinia libero a, dignissim urna. Mauris a eros est. Pellentesque id dapibus magna. Praesent imperdiet sem ac pulvinar pellentesque. Phasellus non est sed ex auctor luctus. Nullam viverra ante ante, non elementum urna hendrerit in. Proin ut nibh auctor, dictum elit ac, vulputate dui. Quisque ultrices, enim ac ultrices lobortis, augue erat congue dolor, eu semper massa leo vel mi. Sed at arcu ultricies dui dapibus cursus. Pellentesque ut tortor et nisl dignissim rhoncus non vel urna. Proin feugiat nunc sed nisl mollis hendrerit. Donec tincidunt vehicula massa et vestibulum. Donec commodo suscipit turpis vehicula auctor. Praesent congue, turpis eu consequat efficitur, justo augue condimentum ante, nec semper nibh enim at purus. Quisque rhoncus dapibus pretium. Cras vel commodo odio. In feugiat nulla arcu. Curabitur ac pulvinar dolor. Sed luctus orci eu malesuada sollicitudin. Sed consectetur mauris metus, id scelerisque tortor vulputate eu. Integer sodales nulla sapien, commodo ornare dui pellentesque volutpat. 

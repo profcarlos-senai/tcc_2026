@@ -2,9 +2,7 @@
 
 O objetivo desta seção é responder à pergunta: **Como o código-fonte, o banco de dados e as telas da aplicação devem ser desenvolvidos?** Este é o nível de menor nível de abstração, totalmente voltado para a construção técnica da aplicação pelos alunos programadores.
 
---- <div style="display:none">
-
-### Tópicos desta seção:
+### Tópicos desta seção: {.ignore}
 
 #### 4.1 - [Requisitos Funcionais de Software](4.1_requisitos_funcionais_software.md)
 
