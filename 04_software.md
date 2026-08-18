@@ -1,8 +1,8 @@
-# Nível 4: Definição de Requisitos de Software
+# 4. Definição de Requisitos de Software
 
 O objetivo desta seção é responder à pergunta: **Como o código-fonte, o banco de dados e as telas da aplicação devem ser desenvolvidos?** Este é o nível de menor nível de abstração, totalmente voltado para a construção técnica da aplicação pelos alunos programadores.
 
----
+--- <div style="display:none">
 
 ### Tópicos desta seção:
 
@@ -21,3 +21,5 @@ Especificação técnica detalhada das telas da aplicação, componentes interat
 #### 4.4 - [Requisitos Não Funcionais de Software](4.4_requisitos_nao_funcionais_software.md)
 
 Regras arquiteturais, padrões de projeto (ex.: MVC), tempos de resposta de consultas SQL, criptografia e legibilidade do código-fonte.
+
+</div>

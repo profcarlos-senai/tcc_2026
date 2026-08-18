@@ -1,8 +1,8 @@
-# Nível 3: Definição de Requisitos do Sistema
+# 3. Definição de Requisitos do Sistema
 
 O objetivo desta seção é responder à pergunta: **Quais são as regras globais e técnicas da solução completa (hardware + software + processos)?** Aqui a perspectiva deixa de ser o desejo do usuário e passa a ser a especificação da solução inteira.
 
----
+--- <div style="display:none">
 
 ### Tópicos desta seção:
 
@@ -23,3 +23,5 @@ Mapeia como o sistema se conecta com o mundo externo: dispositivos físicos (har
 #### 3.4 - [Critérios de Verificação e Aceite](3.4.criterios_verificacao_aceite.md)
 
 Estipula como o grupo e a banca vão testar e provar que cada requisito foi realmente cumprido (via Teste, Demonstração, Inspeção ou Análise).
+
+</div>
