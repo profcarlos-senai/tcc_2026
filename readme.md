@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **ATENÇÃO OBRIGATÓRIA:** antes de começar, leia com cuidado as [instruções de como usar](como_fazer.md) esse repositório para gerar os arquivos PDF e DOCX do seu TCC.
+> **ATENÇÃO OBRIGATÓRIA:** antes de começar, leia com cuidado as [instruções de como usar](como_fazer.md) esse repositório para conseguir gerar os arquivos PDF e DOCX do seu TCC.
 
 
 # Especificação de Requisitos do Sistema (TCC)
