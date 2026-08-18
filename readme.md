@@ -4,6 +4,8 @@
 
 # Especificação de Requisitos do Sistema (TCC)
 
+Documentação do Projeto de Conclusão de Curso Técnico em Desenvolvimento de Sistemas do SENAI Pato Branco/BR - 2026/2027
+
 Esse documento é estruturada com base nas diretrizes da norma internacional **ISO/IEC/IEEE 29148:2018**. A documentação está dividida em 4 níveis progressivos:
 
 ### [1. Análise de Negócio e Missão](01_negocio.md)
