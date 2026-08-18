@@ -4,7 +4,7 @@ O objetivo desta seção é responder à pergunta: **Por que este projeto deve e
 
 ---
 
-### Tópicos desta seção: {.ignore}
+### Tópicos desta seção:
 
 #### [1 - Contexto e Problema de Negócio](1.1_contexto_e_problema.md)
 

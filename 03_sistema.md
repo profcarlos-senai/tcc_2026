@@ -4,7 +4,7 @@ O objetivo desta seção é responder à pergunta: **Quais são as regras globai
 
 ---
 
-### Tópicos desta seção:  {.ignore}
+### Tópicos desta seção:  
 
 
 #### 3.1 - [Requisitos Funcionais do Sistema](3.1.requisitos_funcionais_sistema.md)

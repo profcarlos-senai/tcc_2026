@@ -4,7 +4,7 @@ O objetivo desta seção é responder à pergunta: **Quem vai usar ou ser impact
 
 ---
 
-### Tópicos desta seção:  {.ignore}
+### Tópicos desta seção:  
 
 #### 2.1 - [Mapeamento dos Stakeholders](2.1_mapeamento_stakeholders.md)
 
