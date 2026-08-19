@@ -48,3 +48,14 @@ git push origin main
 *(O GitHub Actions será ativado por causa da frase "gerar pdf". Após 1 ou 2 minutos, você poderá baixar os arquivos prontos na aba **Actions** do seu repositório).*
 
 ---
+
+### Onde achar os arquivos PDF e DOCX do seu projeto?
+
+Sempre que você enviar uma **tag**, o GitHub criará uma versão fechada dos seus documentos técnicos. Para baixar o PDF e o DOCX prontos e formatados, siga os passos abaixo: 
+
+1. Acesse a página inicial do seu repositório no site do GitHub.
+2. No menu superior, clique na aba **Actions** (ao lado de Pull Requests e Projects).
+3. Na lista de execuções, clique no **nome do último build que foi executado** (ele terá o mesmo nome da tag que você enviou).
+4. Role a página do build totalmente para baixo até encontrar a seção **Artifacts** (Artefatos).
+5. Clique no arquivo compactado chamado **documentos-gerados**.
+6. Pronto! O download começará automaticamente com os arquivos tcc.pdf e tcc.docx em seu computador.

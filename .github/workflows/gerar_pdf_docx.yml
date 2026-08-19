@@ -1,8 +1,10 @@
 name: Build Documents
 
+# O fluxo é disparado por QUALQUER tag enviada
 on:
   push:
-    branches: [ main ]
+    tags:
+      - '**' # Corresponde a absolutamente qualquer formato ou nome de tag
 
 permissions:
   contents: read
@@ -10,9 +12,6 @@ permissions:
 jobs:
   convert-docs:
     runs-on: ubuntu-latest
-    # This condition checks if the commit message ends with or contains "gerar pdf"
-    if: "contains(github.event.head_commit.message, 'gerar pdf')"
-    
     container:
       image: pandoc/extra:latest
 
@@ -28,7 +27,7 @@ jobs:
     - name: Upload PDF and DOCX artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: converted-documents
+        name: documentos-gerados
         path: |
           tcc.pdf
           tcc.docx
